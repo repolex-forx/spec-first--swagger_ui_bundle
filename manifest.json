@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "spec-first",
+  "repo": "swagger_ui_bundle",
+  "versions": [
+    {
+      "commit": "77ce9d279b3b0699511e3b2900477db47374e593",
+      "parsed_at": "2026-10-12T20:02:40.322029+00:00",
+      "tag": "1.1.0",
+      "filetree": "filetree/77ce9d279b3b0699511e3b2900477db47374e593.nq.gz",
+      "blobs": [
+        "blob/e78040f380f13f3e2fa58d69fbd99e31c50a0511.nq.gz",
+        "blob/77dfede7bb557cc4d9af2e9532e1ad3fb884071a.nq.gz",
+        "blob/b525fe213221e2dd68f34f5972fdab58b66d7ca4.nq.gz",
+        "blob/e18c0766ef686c60cd6f0793643f4df906359f80.nq.gz",
+        "blob/e1736e0de9cbe58a8d4bd87246c52eb38947a269.nq.gz",
+        "blob/7a4a3ea2424c09fbe48d455aed1eaa94d9124835.nq.gz",
+        "blob/f60709e810a9b42ccdfad6559630468952aa079b.nq.gz",
+        "blob/11a19be97c813628678fcf253b6aa8d878229afc.nq.gz",
+        "blob/185a2add3b911754681b854e09ff1d485a4c3f6f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
