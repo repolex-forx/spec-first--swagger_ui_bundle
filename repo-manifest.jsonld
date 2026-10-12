@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/spec-first/swagger_ui_bundle/commit/77ce9d279b3b0699511e3b2900477db47374e593",
       "git:hexsha": "77ce9d279b3b0699511e3b2900477db47374e593",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1.0",
+      "repolex:parsedAt": "2026-10-12T20:04:26.736558+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spec-first/swagger_ui_bundle/commit/2901caedd2211c127e62b3eeb75dd90d8eddfbc5",
