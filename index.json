@@ -1,0 +1,11 @@
+{
+  "org": "spec-first",
+  "repo": "swagger_ui_bundle",
+  "versions": [
+    {
+      "commit": "77ce9d279b3b0699511e3b2900477db47374e593",
+      "tag": "1.1.0",
+      "parsed_at": "2026-10-12T20:04:26.737009+00:00"
+    }
+  ]
+}
