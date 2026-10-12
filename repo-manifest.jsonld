@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spec-first/swagger_ui_bundle/commit/77ce9d279b3b0699511e3b2900477db47374e593",
       "git:hexsha": "77ce9d279b3b0699511e3b2900477db47374e593",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.0"
     },
     {

@@ -1,0 +1,7 @@
+[2026-10-12T20:03:37Z] === AST ITERATION 1 START | repo=spec-first/swagger_ui_bundle sha=77ce9d27 ===
+[2026-10-12T20:03:37Z] [iter=1] PHASE START: ast repo=spec-first/swagger_ui_bundle sha=77ce9d27
+[2026-10-12T20:03:37Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T20:03:37Z] [iter=1] AST chunks built count=1 triples=495
+[2026-10-12T20:03:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/77ce9d279b3b0699511e3b2900477db47374e593/.complete
+[2026-10-12T20:03:37Z] [iter=1] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-10-12T20:03:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
